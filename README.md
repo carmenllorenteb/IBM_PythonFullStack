@@ -1,5 +1,13 @@
 # IBM_PythonFullStack
 
+Alumno:
+
+Repo Carmen Llorente (carmenllorenteb@gmail.com): 
+
+http://github.com/carmenllorenteb/IBM_PythonFullStack
+
+Descripción:
+
 Ejercicio curso IBM, Python Full Stack
 
 Escribir un programa en Python que genere una matriz de tamaño NxN y
