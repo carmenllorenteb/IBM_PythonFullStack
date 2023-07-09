@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+# Alumno: Mª del Carmen Llorente Benedicto (carmenllorenteb@gmail.com)
+# Repo: https://github.com/carmenllorenteb/IBM_PythonFullStack
+#
+# Descripción: programa que genera una matriz cuadrada con números aleatorios entre 0 y 9
+# e imprime la suma de filas y columnas. Comprueba que la entrada N, tamaño de la matriz,
+# facilitada por usuario sea un valor válido.
+#
 
 import random
 
